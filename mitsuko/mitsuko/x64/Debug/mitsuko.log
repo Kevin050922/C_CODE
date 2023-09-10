@@ -1,0 +1,4 @@
+﻿  game.c
+C:\Users\Lenovo\Desktop\code\mitsuko\mitsuko\game.c(65,1): warning C4029: 声明的形参表不同于定义
+C:\Users\Lenovo\Desktop\code\mitsuko\mitsuko\game.c(113): warning C4715: “is_win”: 不是所有的控件路径都返回值
+  mitsuko.vcxproj -> C:\Users\Lenovo\Desktop\code\mitsuko\x64\Debug\mitsuko.exe
